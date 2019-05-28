@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://LPcam.github.io</id>
+    <id>https://LPcam02.github.io</id>
     <title>Gridea</title>
-    <updated>2019-05-28T05:57:51.416Z</updated>
+    <updated>2019-05-28T09:35:06.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://LPcam.github.io"/>
-    <link rel="self" href="https://LPcam.github.io/atom.xml"/>
+    <link rel="alternate" href="https://LPcam02.github.io"/>
+    <link rel="self" href="https://LPcam02.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://LPcam.github.io/images/avatar.png</logo>
-    <icon>https://LPcam.github.io/favicon.ico</icon>
+    <logo>https://LPcam02.github.io/images/avatar.png</logo>
+    <icon>https://LPcam02.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[23542v25423]]></title>
-        <id>https://LPcam.github.io/post/23542v25423</id>
-        <link href="https://LPcam.github.io/post/23542v25423">
+        <id>https://LPcam02.github.io/post/23542v25423</id>
+        <link href="https://LPcam02.github.io/post/23542v25423">
         </link>
         <updated>2019-05-28T05:56:59.000Z</updated>
         <content type="html"><![CDATA[<p>drerw3542352</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://LPcam.github.io/post/hello-gridea</id>
-        <link href="https://LPcam.github.io/post/hello-gridea">
+        <id>https://LPcam02.github.io/post/hello-gridea</id>
+        <link href="https://LPcam02.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
