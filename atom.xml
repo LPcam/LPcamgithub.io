@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://LPcam02.github.io</id>
+    <id>https://LPcamgithub.io</id>
     <title>Gridea</title>
-    <updated>2019-05-29T02:25:00.498Z</updated>
+    <updated>2019-05-29T02:51:54.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://LPcam02.github.io"/>
-    <link rel="self" href="https://LPcam02.github.io/atom.xml"/>
+    <link rel="alternate" href="https://LPcamgithub.io"/>
+    <link rel="self" href="https://LPcamgithub.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://LPcam02.github.io/images/avatar.png</logo>
-    <icon>https://LPcam02.github.io/favicon.ico</icon>
+    <logo>https://LPcamgithub.io/images/avatar.png</logo>
+    <icon>https://LPcamgithub.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[茅屋为秋风所破歌]]></title>
-        <id>https://LPcam02.github.io/post/mao-wu-wei-qiu-feng-suo-po-ge</id>
-        <link href="https://LPcam02.github.io/post/mao-wu-wei-qiu-feng-suo-po-ge">
+        <id>https://LPcamgithub.io/post/mao-wu-wei-qiu-feng-suo-po-ge</id>
+        <link href="https://LPcamgithub.io/post/mao-wu-wei-qiu-feng-suo-po-ge">
         </link>
         <updated>2019-05-28T09:36:25.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://LPcam02.github.io/post-images/1559036256229.jpg" alt="">
+        <content type="html"><![CDATA[<p><img src="https://LPcamgithub.io/post-images/1559036256229.jpg" alt="">
 八月秋高风怒号，卷我屋上三重茅。
 茅飞渡江洒江郊，高者挂罥长林梢，下者飘转沉塘坳。</p>
 <p>南村群童欺我老无力，忍能对面为盗贼，公然抱茅入竹去。
@@ -32,8 +32,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://LPcam02.github.io/post/hello-gridea</id>
-        <link href="https://LPcam02.github.io/post/hello-gridea">
+        <id>https://LPcamgithub.io/post/hello-gridea</id>
+        <link href="https://LPcamgithub.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
